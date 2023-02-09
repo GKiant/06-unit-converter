@@ -3,21 +3,18 @@ let unitsList = [
     unit: 'Length (Meter/Feet)',
     metricUnit: 'meter',
     imperialUnit: 'feet',
-    convertedData: '',
     converter: 3.281,
   },
   {
     unit: 'Volume (Liters/Gallons)',
     metricUnit: 'liter',
     imperialUnit: 'gallon',
-    convertedData: '',
     converter: 0.264,
   },
   {
     unit: 'Mass (Kilograms/Pounds)',
     metricUnit: 'kilo',
     imperialUnit: 'pound',
-    convertedData: '',
     converter: 2.204,
   },
 ];
